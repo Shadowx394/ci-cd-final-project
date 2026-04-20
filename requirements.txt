@@ -1,3 +1,6 @@
+# Fix for old pip in Tekton lab
+MarkupSafe==2.0.1
+
 # Werkzeug keeps breaking Flask!
 Werkzeug==2.1.2
 
